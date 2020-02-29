@@ -1,2 +1,2 @@
 # deepsearescue
-The Unix version of Submarino the Jogo, a game by @tiagodiasferreira and @pefcos.
+The Unix version of Submarino the Jogo, a game by @tiagodfer and @pefcos.
